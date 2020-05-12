@@ -99,6 +99,7 @@ Final_result = NiceString(x=''.lower())
 print(Final_result.nice_string('Remove me to enter the string argument'.lower()))
 
 # REMOVE THE COMMAND INSIDE THE .nice_string()
-# enter your choice string argument before the (.)
+# Enter your choice string argument before the (.)
 # Don't remove the single inverted comma while entering string, enter your string
-# inside the inverted comma.'enter string here'
+# Inside the inverted comma.'enter string here'
+
